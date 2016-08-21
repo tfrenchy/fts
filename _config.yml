@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: http://foundthesound.github.io/fts
+url: https://foundthesound.github.io/fts
 
 # Jekyll configuration
 
