@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chainsmokers Tease Unrealeased ID"
-excerpt: "An article to test overriding the default site author."
+excerpt: "Have you heard it yet?"
 categories: articles
 comments: true
 share: true
