@@ -1,24 +1,20 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About Found The Sound
+excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: about-splash.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+**Found The Sound** is a small blog run by a two man team, with the aim of showcasing the latest and greatest in electronic music.
 
-## So Simple Theme is all about:
+## Found The Sound is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Showcasing new up and up coming producers from all over the Electronic music spectrum. House, Deep House, Nu-Disco, Drum and Bass, Dubstep and Trap are all welcome here
+* Providing the best new music we can find, be it mainstream or underground
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+Take a look at our blog! See if you can find anything you like
+<a markdown="0" href="{{ site.url }}/blog" class="btn">Blog</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
